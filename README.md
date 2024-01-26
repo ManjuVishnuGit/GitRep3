@@ -1,2 +1,3 @@
 # GitRep3
-ManjuGitRepo3
+My GitRepo
+Author: Bhuvi
